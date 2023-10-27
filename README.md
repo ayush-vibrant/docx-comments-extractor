@@ -21,7 +21,7 @@ It allows users to extract comments and their associated text from a DOCX file. 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/docx-comments-extractor.git
+   git clone https://github.com/ayush-vibrant/docx-comments-extractor.git
    cd docx-comments-extractor
    ```
 
@@ -128,10 +128,6 @@ It allows users to extract comments and their associated text from a DOCX file. 
    ```
 
 Replace `/path/to/your/docx/file.docx` with the actual path to your DOCX file.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 👏 Acknowledgments
 
